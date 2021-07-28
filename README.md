@@ -1,3 +1,5 @@
+
+`This repo is no longer maintained due to lack of data and unavailable information`
 ### About this repo
 
 This repo contains all the information about the military coup that's currently taking place in Myanmar in json format. Currently the timeline ends at Feb 28 but I will upload the timeline for March once I get all the necessary data. Anyone who wants to contribute or add more information is welcome. You can either pull request or can raise issues.
